@@ -1,44 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T08:51:28.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5VnPY1mY4FNjIU71DK7X" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-31T09:00:33.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="unOy_F9ptjsK8_JXmKVU" version="20.2.2" type="github">
   <diagram id="lnIsvAjMaVFpF_0jscDs" name="第 1 页">
-    <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-13" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;rounded=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="200.13" width="355" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-12" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-12" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;rounded=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="200.13" width="355" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-11" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="62.379999999999995" y="198.13" width="355" height="145" as="geometry" />
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-11" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;rounded=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="62.379999999999995" y="200.13" width="355" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-2" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-2" value="目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-3" value="技能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-3" value="技能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-4" value="行动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-4" value="行动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-5" value="架构师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-5" value="架构师" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="649" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-6" value="技术能力&lt;br&gt;沟通能力&lt;br&gt;业务理解能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-6" value="技术能力&lt;br&gt;沟通能力&lt;br&gt;业务理解能力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="649" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-7" value="业务代码用到的技术下手学习&lt;br&gt;突破技术的边界去和产品沟通&lt;br&gt;从上下游去理解业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-7" value="业务代码用到的技术下手学习&lt;br&gt;突破技术的边界去和产品沟通&lt;br&gt;从上下游去理解业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="649" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-8" value="Where&lt;br&gt;要到哪里去" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-8" value="Where&lt;br&gt;要到哪里去" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-9" value="What&lt;br&gt;这是什么东西&lt;br&gt;我需要做什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-9" value="What&lt;br&gt;这是什么东西&lt;br&gt;我需要做什么" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAa4q-jZwmv7SIEXZrUI-10" value="How&lt;br&gt;怎么达到想去的地方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-10" value="How&lt;br&gt;怎么达到想去的地方" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;width=11;endSize=9;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;sketch=1;strokeWidth=2;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="289.5" as="sourcePoint" />
+            <mxPoint x="390" y="289.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;width=11;endSize=9.33;curved=1;labelBackgroundColor=#283618;strokeColor=#DDA15E;fontColor=#FEFAE0;sketch=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="289.5" as="sourcePoint" />
+            <mxPoint x="630" y="289.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
