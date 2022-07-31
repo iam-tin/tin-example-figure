@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T08:42:53.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ud3SDwciuFeY8KjqPE3b" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-31T08:48:01.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MczSLs0BA1MD7I23xJXl" version="20.2.2" type="github">
   <diagram id="lnIsvAjMaVFpF_0jscDs" name="第 1 页">
     <mxGraphModel dx="946" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,24 @@
         </mxCell>
         <mxCell id="UAa4q-jZwmv7SIEXZrUI-4" value="行动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-5" value="架构师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-6" value="技术能力&lt;br&gt;沟通能力&lt;br&gt;业务理解能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-7" value="业务代码用到的技术先学&lt;br&gt;突破技术的边界去和产品沟通&lt;br&gt;从上下游去理解业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-8" value="Where&lt;br&gt;要到哪里去" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-9" value="What&lt;br&gt;这是什么东西" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UAa4q-jZwmv7SIEXZrUI-10" value="How&lt;br&gt;怎么达到想去的地方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
