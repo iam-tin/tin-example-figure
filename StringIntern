@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T14:31:14.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="q09uCN0mNfuqzueXqhGz" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T15:10:22.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="o38zP3zjWtsgfWXlpG_H" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-73" value="s2" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-78" value="参考：&lt;br&gt;《深入理解Java虚拟机 第二版》&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: x-small; background-color: initial;&quot;&gt;https://www.zwnblog.com/archives/java-zhi-string-xiang-jie&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="750" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
