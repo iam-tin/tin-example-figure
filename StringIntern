@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T14:04:57.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0YGzPRc7wEC-3quxnSEH" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T14:05:28.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LzqgeiNtfvt2toohBmOy" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-36" value="intern()会把首次遇到的&quot;abc&quot;实例复制到持久代" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="519" y="33" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-37" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-37" value="s1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-38" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fK6ycjQm5-XOI8O4Qbi1-37">
@@ -155,7 +155,7 @@
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-55" value="0x003" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="552" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-56" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;地址：0x004（s1）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-56" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;地址：0x004（s2）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="627" width="81" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-57" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -164,7 +164,7 @@
             <mxPoint x="310" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-58" value="" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fK6ycjQm5-XOI8O4Qbi1-58" value="s1" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="139" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fK6ycjQm5-XOI8O4Qbi1-60" value="JDK1.7中的intern()不会复制实例，在常量池中记录首次出现的&quot;abc&quot;实例引用" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=9;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
