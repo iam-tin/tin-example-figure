@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T09:32:41.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EYMsXp_WkS4GrhIwKWFa" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-30T09:48:02.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="12SMRr4GJEVzh2yJJyn3" version="21.5.0" type="github" pages="3">
   <diagram name="脏写" id="lsbFYBEzzXTVNP9wXjDo">
     <mxGraphModel dx="910" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -380,7 +380,7 @@
         <mxCell id="CteGFoc5HfUtK_BU4MHV-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始事务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="110" y="435" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-14" target="CteGFoc5HfUtK_BU4MHV-21">
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-14" target="CteGFoc5HfUtK_BU4MHV-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询余额100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
@@ -394,25 +394,11 @@
         <mxCell id="CteGFoc5HfUtK_BU4MHV-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询余额100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="346" y="435" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-18" target="CteGFoc5HfUtK_BU4MHV-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-18" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Tom账户余额200&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="520" y="297" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="297" width="291" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-21" target="CteGFoc5HfUtK_BU4MHV-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;update&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="CteGFoc5HfUtK_BU4MHV-19">
-          <mxGeometry x="-0.2439" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;事务失败回滚&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="175" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tom账户余额100&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="297" width="120" height="60" as="geometry" />
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;提交事务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="689" y="175" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-23" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.355;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -436,10 +422,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-27" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.056;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-27" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.056;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.124;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CteGFoc5HfUtK_BU4MHV-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="215" as="sourcePoint" />
-            <mxPoint x="550" y="295" as="targetPoint" />
+            <mxPoint x="537" y="215" as="sourcePoint" />
+            <mxPoint x="557" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;update&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="CteGFoc5HfUtK_BU4MHV-27">
@@ -449,8 +435,8 @@
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-29" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.629;exitY=-0.033;exitDx=0;exitDy=0;entryX=0.284;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="299" as="sourcePoint" />
-            <mxPoint x="627" y="219" as="targetPoint" />
+            <mxPoint x="594" y="297" as="sourcePoint" />
+            <mxPoint x="621" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;余额200&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="CteGFoc5HfUtK_BU4MHV-29">
@@ -475,19 +461,22 @@
             <mxPoint x="305.9849999999999" y="435.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;余额200&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="CteGFoc5HfUtK_BU4MHV-33">
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ack&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="CteGFoc5HfUtK_BU4MHV-33">
           <mxGeometry x="0.237" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CteGFoc5HfUtK_BU4MHV-35" value="①" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="677" y="147" width="52" height="24" as="geometry" />
+          <mxGeometry x="617" y="391" width="52" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-36" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;do something&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="435" width="120" height="40" as="geometry" />
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-36" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;查询余额&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="689" y="431" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CteGFoc5HfUtK_BU4MHV-37" value="②" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="677" y="408" width="52" height="24" as="geometry" />
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="CteGFoc5HfUtK_BU4MHV-39" target="CteGFoc5HfUtK_BU4MHV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CteGFoc5HfUtK_BU4MHV-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;把Tom余额更新为200&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="523" y="175" width="114" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
