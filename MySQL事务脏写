@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T08:30:54.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FX9b_ZaScGGIADwA-XrG" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T08:31:44.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2qReOD5IpBFt1UPTs4HM" version="21.5.0" type="github">
   <diagram name="Page-1" id="lsbFYBEzzXTVNP9wXjDo">
-    <mxGraphModel dx="954" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,20 @@
         <mxCell id="rh2XBJu35ERrHX-jMzQY-1" value="事务A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rh2XBJu35ERrHX-jMzQY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="rh2XBJu35ERrHX-jMzQY-2" target="rh2XBJu35ERrHX-jMzQY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-2" value="事务B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rh2XBJu35ERrHX-jMzQY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="rh2XBJu35ERrHX-jMzQY-3" target="rh2XBJu35ERrHX-jMzQY-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-3" value="MySQL数据库" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="81" y="280" width="48" height="64" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tom账户余额100&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="284" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="rh2XBJu35ERrHX-jMzQY-5" target="rh2XBJu35ERrHX-jMzQY-7">
           <mxGeometry relative="1" as="geometry" />
@@ -25,14 +31,17 @@
         <mxCell id="rh2XBJu35ERrHX-jMzQY-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始事务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rh2XBJu35ERrHX-jMzQY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="rh2XBJu35ERrHX-jMzQY-6" target="rh2XBJu35ERrHX-jMzQY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始事务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="180" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;读取余额并加100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;读取余额并加100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="420" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tom账户余额200&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
@@ -41,7 +50,7 @@
           <mxGeometry x="790" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tom账户余额100&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="790" y="284" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rh2XBJu35ERrHX-jMzQY-15" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.056;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rh2XBJu35ERrHX-jMzQY-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
