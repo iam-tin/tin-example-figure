@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T09:53:16.421Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tLkBfdqM0i0kYO8ZZlE2" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-01T02:38:43.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pyqSpf_m2FWuyOrmyM0I" version="21.5.0" type="github" pages="4">
   <diagram name="脏写" id="lsbFYBEzzXTVNP9wXjDo">
     <mxGraphModel dx="910" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -505,6 +505,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fKeJ7DZvO69NCEhEWpbb" name="幻读">
+    <mxGraphModel dx="1071" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
