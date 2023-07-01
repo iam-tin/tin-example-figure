@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T08:10:13.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T79MglNmINOQ0A1e6NAu" version="21.5.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-01T09:22:46.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yhiZ4TOYmzMvUj5GY-K8" version="21.5.0" type="github" pages="6">
   <diagram name="脏写" id="lsbFYBEzzXTVNP9wXjDo">
     <mxGraphModel dx="910" dy="568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -846,6 +846,88 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-230" y="4" as="sourcePoint" />
             <mxPoint x="-65" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2-lsm_04G6_YLg2CER0x" name="解释不同隔离级别下看到的数据">
+    <mxGraphModel dx="1287" dy="545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tNdH9m0U-ylMbafZibp6-1" value="事务A" style="swimlane;startSize=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-44" y="15" width="172" height="506" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-1" source="tNdH9m0U-ylMbafZibp6-3" target="tNdH9m0U-ylMbafZibp6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="63.5" y="29" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-1" source="tNdH9m0U-ylMbafZibp6-4" target="tNdH9m0U-ylMbafZibp6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询Tom余额 100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="25.5" y="100" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-1" source="tNdH9m0U-ylMbafZibp6-9" target="tNdH9m0U-ylMbafZibp6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询Tom余额 R1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="25.5" y="223" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询Tom余额 R2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="25.5" y="316" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-1" source="tNdH9m0U-ylMbafZibp6-12" target="tNdH9m0U-ylMbafZibp6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;commit&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="63.5" y="382" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询Tom余额 R3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-1">
+          <mxGeometry x="25.5" y="454" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tNdH9m0U-ylMbafZibp6-1" source="tNdH9m0U-ylMbafZibp6-11" target="tNdH9m0U-ylMbafZibp6-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96" y="271" as="sourcePoint" />
+            <mxPoint x="96" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-5" value="事务B" style="swimlane;startSize=20;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="233" y="13" width="172" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tNdH9m0U-ylMbafZibp6-5" source="tNdH9m0U-ylMbafZibp6-6" target="tNdH9m0U-ylMbafZibp6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;begin&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-5">
+          <mxGeometry x="63.5" y="31" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-5" source="tNdH9m0U-ylMbafZibp6-7" target="tNdH9m0U-ylMbafZibp6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;查询Tom余额 100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-5">
+          <mxGeometry x="25.5" y="100" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="tNdH9m0U-ylMbafZibp6-5" source="tNdH9m0U-ylMbafZibp6-8" target="tNdH9m0U-ylMbafZibp6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;给Tom余额加 100&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-5">
+          <mxGeometry x="25.5" y="173" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;commit&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="tNdH9m0U-ylMbafZibp6-5">
+          <mxGeometry x="63.5" y="263" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179" y="29" as="sourcePoint" />
+            <mxPoint x="184" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNdH9m0U-ylMbafZibp6-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;时间轴&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontFamily=Architects Daughter;" vertex="1" connectable="0" parent="tNdH9m0U-ylMbafZibp6-14">
+          <mxGeometry x="-0.0104" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
