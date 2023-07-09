@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T02:50:13.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rSK9f9qBUJ8gbCajCK91" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-09T02:51:10.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="haQOukSHyRBT1s5yg0RL" version="21.5.2" type="github" pages="2">
   <diagram name="记录" id="U3c09dEAK5FGmG_nWcVu">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -273,6 +273,12 @@
               <mxPoint x="380" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="c7i4Ekej74Ydhba033aM-7" value="事务1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="38" y="91" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c7i4Ekej74Ydhba033aM-8" value="undo日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="34" y="267" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
