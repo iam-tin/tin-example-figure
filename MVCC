@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T07:21:53.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Z8HSfVznaTe0ugHvXQuc" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-09T07:25:06.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oitKcEuKuBXU4Q240YW7" version="21.5.2" type="github" pages="3">
   <diagram name="记录" id="U3c09dEAK5FGmG_nWcVu">
     <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mtDq39N51WxxCP36_jTH" name="undo log生成环节">
-    <mxGraphModel dx="946" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,8 +315,8 @@
         <mxCell id="nII374kfVnyJHrL3QQoi-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;commmited结束&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="272" y="547" width="96" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="nII374kfVnyJHrL3QQoi-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;回滚事务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="469" y="419" width="132" height="60" as="geometry" />
+        <mxCell id="nII374kfVnyJHrL3QQoi-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;回滚事务&lt;br&gt;Tom的账户余额还是100&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="469" y="419" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nII374kfVnyJHrL3QQoi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="nII374kfVnyJHrL3QQoi-6" target="nII374kfVnyJHrL3QQoi-5">
           <mxGeometry relative="1" as="geometry" />
