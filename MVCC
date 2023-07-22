@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:55:24.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ea1PDAw-U0StcbJobbTm" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:56:43.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r-88hq8WDlj3PM4h3JOr" version="21.6.1" type="github" pages="8">
   <diagram name="记录" id="U3c09dEAK5FGmG_nWcVu">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -906,7 +906,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIxT6Kj_lrrn8WMb4hoH-24" value="查询Tom账户余额" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="DIxT6Kj_lrrn8WMb4hoH-22">
+        <mxCell id="DIxT6Kj_lrrn8WMb4hoH-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;select * from where bank_balance&amp;gt;0 for update&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#cc0000&quot;&gt;result: 8 rows&lt;/font&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="DIxT6Kj_lrrn8WMb4hoH-22">
           <mxGeometry x="78" width="368" height="50" as="geometry">
             <mxRectangle width="368" height="50" as="alternateBounds" />
           </mxGeometry>
