@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T08:25:59.654Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NGpmvAh3LjZaDOtUkm0Q" version="21.6.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-07-22T08:29:35.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u56tLQeaQz6NxI17UdsU" version="21.6.1" type="github" pages="12">
   <diagram name="记录" id="U3c09dEAK5FGmG_nWcVu">
     <mxGraphModel dx="954" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1180,7 +1180,7 @@
             <mxRectangle width="78" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="219NqFSWVcQxNguf7r9G-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;select * from where bank_balance&amp;gt;0&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;&quot;&gt;result: 7 rows&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="219NqFSWVcQxNguf7r9G-15">
+        <mxCell id="219NqFSWVcQxNguf7r9G-17" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;select * from bank_balance where balance &amp;gt; 0&lt;br&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;&quot;&gt;result: 7 rows&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="219NqFSWVcQxNguf7r9G-15">
           <mxGeometry x="78" width="368" height="60" as="geometry">
             <mxRectangle width="368" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -1216,7 +1216,7 @@
             <mxRectangle width="78" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="219NqFSWVcQxNguf7r9G-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;select * from where bank_balance&amp;gt;0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#cc0000&quot;&gt;result: 7 rows&lt;/font&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="219NqFSWVcQxNguf7r9G-23">
+        <mxCell id="219NqFSWVcQxNguf7r9G-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;select * from bank_balance where balance &amp;gt; 0&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#cc0000&quot;&gt;result: 7 rows&lt;/font&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="219NqFSWVcQxNguf7r9G-23">
           <mxGeometry x="78" width="368" height="50" as="geometry">
             <mxRectangle width="368" height="50" as="alternateBounds" />
           </mxGeometry>
